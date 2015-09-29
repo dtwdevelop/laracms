@@ -1,0 +1,16 @@
+/.cl.selector
+/.idea
+/vendor
+/www/images
+/node_modules
+.env
+.DS_Store
+Thumbs.db
+composer.phar
+.project
+/.settings
+/nbproject/private/
+/public/appfiles/
+/public/portfolio/
+/nbpproject/
+public/.ftpquota
